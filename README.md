@@ -1,0 +1,3 @@
+- My name is Marcos, I'm born and raised in Canada, currently living in Argentina.
+- I’m currently learning ERP consulting @ Adhoc by Odoo
+- You can reach me here: marcos0815@hotmail.com
